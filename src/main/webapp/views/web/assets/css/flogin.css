@@ -1,0 +1,235 @@
+
+/*header*/
+.header {
+	background-color: black;
+}
+
+.menu_top {
+	width: 100%;
+	background-color: gray;
+}
+
+.menu_top-baner {
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	border-bottom: 2px solid black;
+	position: fixed;
+	top: 0px;
+	background-color:black;
+	z-index: 99999999;
+	font-size:14px;
+}
+
+.menu_top p {
+	font-size: 40px;
+	padding-top: 25px;
+}
+
+nav ul {
+	list-style: none;
+	background:black;
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: white;
+	display: inline-block;
+	padding: 20px 23px;
+	text-transform: uppercase;
+}
+
+.menu_dasboard ul li:hover, nav ul li a:hover {
+	background-color: whitesmoke;
+	color: black;
+}
+
+/**/
+.hover_icon {
+	position: relative;
+	color: white
+}
+
+.hover_icon:hover .header__qr {
+	display: block;
+}
+
+.header__qr {
+	background-color: black;
+	height: 28px;
+	width: 319px;
+	position: absolute;
+	left: -279px;
+	top: 100%;
+	padding: 4px 14px;
+	border-radius: 10px;
+	display: none;
+	animation: fadeIn ease-in .3s;
+	z-index: 3;
+}
+
+.hover_icon-content {
+	width: 100%;
+}
+
+.hover-search input {
+	width: 270px;
+}
+
+/*great*/
+/*great*/
+
+.text {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Fasthand', cursive;
+}
+
+
+/*login form*/
+
+.text_left {
+    font-family: 'Roboto', cursive;
+    font-size: 40px;
+    line-height: 60px;
+}
+
+.main_logiform {
+    margin-top: 55px;
+    display: flex;
+    justify-content: center;
+    border-top: 10px solid #88bbb5;
+    background-repeat:none;
+    
+}
+
+.loginform {
+    display: flex;
+    width: 1040px;
+    height: 600px;
+    background-color: #ffff;
+}
+
+.loginform .loginform__left {
+    width: 640px;
+    height: 482px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.loginform .loginform__left h2 {
+    position: relative;
+    left: 40%;
+}
+
+.loginform .loginform__left h3 {
+    position: relative;
+    left: 25%;
+}
+
+.loginform__left img {
+    width: 88%;
+    position: relative;
+    bottom: -58px;
+    left: 33px;
+    padding: auto;
+}
+
+.loginform .loginform__right {
+    width: 400px;
+    height: 482px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    line-height: 25px;
+}
+
+.loginform .loginform__right .loginform__right-body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.loginform__right-header {
+    position: relative;
+    bottom: 4%;
+    display: flex;
+    justify-content: center;
+}
+
+.inputlogin {
+    height: 40px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.inputlogin+.inputlogin {
+    margin-top: 20px;
+}
+
+.textfoget {
+    
+    font-size: 15px;
+    margin-top:10px;
+    bottom: 5px;
+    color: red;
+}
+
+.loginform__right-body p {
+    position: relative;
+    left: 46%;
+    font-size: 20px;
+}
+
+.login3 {
+    font-size: 17px;
+}
+
+.login3 ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.login3 ul li {
+    display: inline-block;
+}
+
+.login3 ul li a {
+    text-decoration: none;
+    color: #333;
+    display: inline-block;
+    padding: 20px 23px;
+    text-transform: uppercase;
+}
+
+.login3 ul li a:hover {
+    cursor: pointer;
+    animation: fadeIn ease-in .3s;
+    opacity: 0.7;
+}
+
+#for-register {
+    display: none;
+}
+
+.inputregis {
+    height: 30px;
+    font-weight: bold;
+}
+
+.inputregis+.inputregis {
+    margin-top: 20px;
+}
+
+/**/
+.noti{
+  position: relative;
+  left: -863px;
+  top: 97px;
+}
