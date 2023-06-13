@@ -1,3 +1,9 @@
+Member: 
+   Lê Tấn Lộc	
+   Nguyễn Văn Hơn	
+   Vũ Hoàng Trúc Vy	
+   Lê Khánh Linh	
+
 # Introduction
 
 As online shopping via social media messages becomes a habit of many consumers during and after the pandemic, messages exchanged when purchasing (conversational business) are becoming the main method for users to reach out to customers. learn information, experience products, services, brands. Instead of calling or emailing, customers tend to text and expect a quick response.
@@ -220,45 +226,3 @@ Table 4. Responsibility table for safety requirements
 ## 4.3. ERD Diagram
 
 ![4 3](https://user-images.githubusercontent.com/105335833/226158013-cafcafa3-5742-4d2f-9525-f2f5d67dd81c.png)
-
-# V. DESIGN WEBSITE
-
-![5 1](https://user-images.githubusercontent.com/105335833/226158153-294f083c-ee79-4077-9d8a-d7e47ad80182.png)
-
-![5 1 (2)](https://user-images.githubusercontent.com/105335833/226158023-26299e69-4581-409a-a8be-e578c0053a2e.png)
-
-![5 1(3)](https://user-images.githubusercontent.com/105335833/226158027-e052c62e-dc75-4197-a2fa-9f85835fcd60.png)
-
-![5 1(4)](https://user-images.githubusercontent.com/105335833/226158030-a19ed823-38c3-4530-9783-e2994367674b.png)
-
-![5 1(5)](https://user-images.githubusercontent.com/105335833/226158033-8ef453c3-a225-4eff-b2b2-bc34265c3393.png)
-
-![5 1(7)](https://user-images.githubusercontent.com/105335833/226158036-fd2b604d-b7d3-44ad-882a-561f2951244e.png)
-
-![5 1(8)](https://user-images.githubusercontent.com/105335833/226158039-75ffcaae-e091-4e6a-a5fa-4c2da327789a.png)
-
-![5 1(9)](https://user-images.githubusercontent.com/105335833/226158043-08aa32f5-141f-43b7-ae0b-a650f241f24c.png)
-
-![5 1(10)](https://user-images.githubusercontent.com/105335833/226158046-c50dedea-61d0-4bf4-9999-79cb4dc9d752.png)
-
-![5 1(11)](https://user-images.githubusercontent.com/105335833/226158434-783ee7b4-44ec-418f-8e45-2e706b262e4c.png)
-
-![5 1(12)](https://user-images.githubusercontent.com/105335833/226158435-3c0b689e-efcf-4bd1-b8fd-cac568a4a184.png)
-
-![5 1(13)](https://user-images.githubusercontent.com/105335833/226158439-34992067-bfed-4ff3-9833-ca02f763320c.png)
-
-![5 1(14](https://user-images.githubusercontent.com/105335833/226158424-8ab492b4-786e-40e9-9e33-6df13a3cd024.png)
-
-![5 1(15)](https://user-images.githubusercontent.com/105335833/226158428-d9812bec-5e0f-4d7c-96a6-87ab3f5a00e4.png)
-
-![5 1(16)](https://user-images.githubusercontent.com/105335833/226158430-f80360f4-4a70-4ebb-a62a-d6de37c04148.png)
-
-![5 1(17)](https://user-images.githubusercontent.com/105335833/226158432-090c1507-b882-44b4-b2bc-a0b4f02b7f6e.png)
-
-
-
-
-
-
-
-
