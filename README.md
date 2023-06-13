@@ -1,7 +1,7 @@
 Member: 
-   Lê Tấn Lộc	
-   Nguyễn Văn Hơn	
-   Vũ Hoàng Trúc Vy	
+   Nguyễn Văn Hơn, 
+   Vũ Hoàng Trúc Vy,
+   Lê Tấn Lộc,
    Lê Khánh Linh	
 
 # Introduction
